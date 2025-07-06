@@ -21,10 +21,9 @@ A simple batch script that stops unnecessary Windows services to improve your PC
 
 ## Usage
 
-1. Edit the `.bat` file and replace `yourusername` in the TikTok URL with your actual TikTok username.
-2. Right-click the `.bat` file and select **Run as administrator**.
-3. The script will stop the specified services and open your TikTok profile in the default browser.
-4. Press any key to close the script window.
+1. Right-click the `.bat` file and select **Run as administrator**.
+2. The script will stop the specified services and open your TikTok profile in the default browser.
+3. Press any key to close the script window.
 
 ## Warning
 
